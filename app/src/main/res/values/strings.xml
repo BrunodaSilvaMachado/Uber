@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_cadastro">register an account</string>
+    <string name="title_activity_login">access my account</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="e_mail" translatable="false">E-mail</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="invalid_email">valid email is request</string>
+    <string name="invalid_credentials">Username or password is invalid</string>
+    <string name="permission_denied">Permissions denied</string>
+    <string name="msg_request_permission">To use the app it is necessary to accept the permissions.</string>
+    <string name="accept">Accept</string>
+    <string name="exit">Exit</string>
+    <string name="upload_failed">Upload Failed</string>
+    <string name="delete_failed">Failed to delete file</string>
+    <string name="passenger">Passenger</string>
+    <string name="driver">Driver</string>
+    <string name="start_travel">Start Travel</string>
+    <string name="my_location">My location</string>
+    <string name="enter_your_destination">Enter your destination</string>
+    <string name="call">Call</string>
+    <string name="inform_the_address">Inform the address</string>
+    <string name="confirm_your_address">Confirm your address</string>
+    <string name="confirm">Confirm</string>
+    <string name="requests">Requests</string>
+    <string name="waiting_for_requests">Waiting for requests</string>
+    <string name="distance_approx">approximalety</string>
+    <string name="start_run">Start run</string>
+    <string name="on_my_way">On my way</string>
+    <string name="need_to_close_current_request">Need to close current request</string>
+    <string name="routers">Routers</string>
+    <string name="on_the_way_to_destination">On the way to destination</string>
+    <string name="finished_race">Finished race</string>
+    <string name="travel_total">Travel total</string>
+    <string name="your_trip_cost">Your trip cost</string>
+    <string name="cancel_passenger">Request canceled by passenger</string>
+    <string name="cancel_driver">Request canceled by driver</string>
+    <string name="want_to_cancel">Want to cancel?</string>
+</resources>

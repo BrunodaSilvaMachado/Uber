@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Uber</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_cadastro">Cadastrar uma conta</string>
+    <string name="title_activity_login">Acessar minha conta</string>
+    <string name="password">Senha</string>
+    <string name="sign_in">Entrar</string>
+    <string name="register">Cadastrar</string>
+    <string name="name">Nome</string>
+    <string name="invalid_username">Nome de usuário inválido</string>
+    <string name="invalid_password">A senha deve ter 5 caracteres ou mais</string>
+    <string name="login_failed">Falha ao conectar</string>
+    <string name="invalid_email">É necessário um e-mail valido</string>
+    <string name="invalid_credentials">Nome ou senha inválidos</string>
+    <string name="permission_denied">Permissão negada</string>
+    <string name="msg_request_permission">Para utilizar a aplicação é necessário aceitar as permissões.</string>
+    <string name="accept">Aceitar</string>
+    <string name="upload_failed">Falha ao carregar imagem</string>
+    <string name="delete_failed">Falha ao Excluir</string>
+    <string name="exit">Sair</string>
+    <string name="passenger">Passageiro</string>
+    <string name="driver">Motorista</string>
+    <string name="start_travel">Iniciar uma viagem</string>
+    <string name="my_location">Meu local</string>
+    <string name="enter_your_destination">Digite seu destino</string>
+    <string name="call">Chamar</string>
+    <string name="inform_the_address">Informe o endereço</string>
+    <string name="confirm_your_address">Confirme seu endereço</string>
+    <string name="confirm">Confirmar</string>
+    <string name="requests">Requisições</string>
+    <string name="waiting_for_requests">Aguardando Requisições</string>
+    <string name="distance_approx">aproximadamente</string>
+    <string name="start_run">Iniciar corrida</string>
+    <string name="on_my_way">A caminho</string>
+    <string name="need_to_close_current_request">Necessário encerrar requisição atual</string>
+    <string name="routers">Rotas</string>
+    <string name="on_the_way_to_destination">A caminho do destino</string>
+    <string name="finished_race">Corrida Finalizada</string>
+    <string name="travel_total">Total da viagem</string>
+    <string name="your_trip_cost">Sua viagem custou</string>
+    <string name="cancel_passenger">Requisição cancelada pelo passageiro</string>
+    <string name="cancel_driver">Requisição cancelada pelo motorista</string>
+    <string name="want_to_cancel">Deseja cancelar?</string>
+</resources>
